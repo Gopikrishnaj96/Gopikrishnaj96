@@ -1,8 +1,7 @@
 ![My Profile Banner](https://github.com/Gopikrishnaj96/Gopikrishnaj96/blob/main/github-header-banner%20(1).png)
 <div id="header" align="center">
 <h2>
-  Aspiring junior AI architect cloud-ops and a game dev(TRYING TO )
-</h2>
+Software Developer </h2>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <h1>
